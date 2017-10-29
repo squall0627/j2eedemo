@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="j2eeDemo">
+    <output-path>$PROJECT_DIR$/out/artifacts/j2eeDemo</output-path>
+    <root id="archive" name="j2eeDemo.ear" />
+  </artifact>
+</component>
